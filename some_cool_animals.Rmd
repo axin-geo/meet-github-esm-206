@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Allison Horst"
+author: "Aote Xin"
 output: html_document
 ---
 
@@ -13,12 +13,15 @@ knitr::opts_chunk$set(echo = TRUE)
 The organization of this document probably seems strange. That's because it's part of an entire multi-part lab for ESM 206, which students will create in multiple projects (but are combined here for easier sharing). Hence the weird unrelated pieces all put together in this project (students will create Parts 2 & 3 as separate projects).
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
+[totoally unrelated link](https://github.com/mikejohnson51/meet-github-esm-206)
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
 #### SHARKS!!!
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
+
+[Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
 
 ##### Some great white shark facts (from [NatGeo Kids](https://www.natgeokids.com/uk/discover/animals/sea-life/great-white-sharks/)):
 
